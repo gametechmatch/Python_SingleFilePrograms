@@ -1,5 +1,5 @@
 ################################################################################
-# nameProcessor.py
+# name_processor.py
 #  Spring 2022
 # Author: Lily Zimmermann
 #
