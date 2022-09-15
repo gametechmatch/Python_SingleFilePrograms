@@ -1,5 +1,5 @@
 ########################################################################
-# mpgCalculatorTkinterPython.py
+# mpg_calculator-tkinter_python.py
 # Author: Lily Zimmermann
 #  Spring 2022 
 ########################################################################
